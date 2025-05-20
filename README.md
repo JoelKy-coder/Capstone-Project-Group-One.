@@ -20,10 +20,10 @@ Understand why rural youth (aged 18–35) in Kenya remain largely excluded from 
 - Technology: phone ownership, mobile app use.
 
 ## DATA PREPARATION
-•	Filter for youth aged 18–25
-•	Tag respondents as rural or urban (inferred from county)
-•	Create binary inclusion status: Included vs Excluded
-•	Encode categorical variables and handle missing values
-•	Generate new features e.g. ID ownership, phone ownership, education level
+-	Filter for youth aged 18–25
+-	Tag respondents as rural or urban (inferred from county)
+- Create binary inclusion status: Included vs Excluded
+- Encode categorical variables and handle missing values
+-	Generate new features e.g. ID ownership, phone ownership, education level
 
 
