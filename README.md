@@ -10,9 +10,9 @@ Understand why rural youth (aged 18–35) in Kenya remain largely excluded from 
 **Source**: FinAccess House Household Survey
 **Provider**: KNBS, CBK & FSD Kenya
 **Feature Include**:
--Demographics (age, gender, education)
--Access indicators: use of bank, mobile money, SACCOs
--Barriers: access to loans, lack of phone, lack of ID
--Technology: phone ownership, mobile app use
+- Demographics (age, gender, education)
+- Access indicators: use of bank, mobile money, SACCOs
+- Barriers: access to loans, lack of phone, lack of ID
+- Technology: phone ownership, mobile app use
 
 
