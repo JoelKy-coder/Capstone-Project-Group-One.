@@ -1,5 +1,5 @@
 # PREDICTING BARRIERS TO FINANCIAL INCLUSION AMONG RURAL YOUTH IN KENYA
-![image](https://github.com/user-attachments/assets/d3d7ff81-db8c-4aed-83f9-a2589411d2d2)
+![image](https://github.com/user-attachments/assets/2b9cae88-bb05-458e-864d-ff57cb10bb89)
 
 
 ## Overview
