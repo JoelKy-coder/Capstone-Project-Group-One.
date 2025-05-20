@@ -8,7 +8,7 @@ The FinAccess 2024 Household Survey reveals a complex financial inclusion landsc
 Understand why rural youth (aged 18–35) in Kenya remain largely excluded from financial services, and identify the key demographic, technological, and economic barriers they face
 ## Dataset 
 **Source**: 
-FinAccess House Household Survey.
+- FinAccess House Household Survey.
   
 **Provider**:
 - KNBS, CBK & FSD Kenya.
