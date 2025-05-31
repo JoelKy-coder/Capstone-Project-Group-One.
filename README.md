@@ -24,6 +24,6 @@ Understand why rural youth (aged 18–35) in Kenya remain largely excluded from 
 -	Tag respondents as rural or urban (inferred from county)
 - Create binary inclusion status: Included vs Excluded
 - Encode categorical variables and handle missing values
--	Generate new features e.g. ID ownership, phone ownership, education level
+-	Generate new features e.g ID ownership, phone ownership, education level
 
 
