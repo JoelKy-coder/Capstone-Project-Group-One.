@@ -42,18 +42,19 @@ Steps Performed:
 - Internet Access: 59% of respondents have internet access, indicating potential for digital financial services.
 
 **Next Steps**
-- Exploratory Data Analysis (EDA):
+1. Exploratory Data Analysis (EDA):
 Visualize distributions of key variables (e.g., age, education, financial access).
 Investigate correlations between financial exclusion and other factors.
-- Feature Engineering:
+2. Feature Engineering:
 Create derived features (e.g., binary flags for financial inclusion).
 Handle categorical variables through encoding.
-- Model Building:
+3. Model Building:
 Train classification models (e.g., logistic regression, random forest) to predict financial exclusion.
 Evaluate model performance using accuracy, F1-score, and feature importance.
-- Policy Recommendations:
+4. Policy Recommendations:
 Summarize findings to inform interventions by FSD Kenya and CBK.
-- Tools Used
+
+**Tools Used**
 Python Libraries: Pandas, NumPy, Matplotlib, Seaborn.
 Environment: Jupyter Notebook (Google Colab).
 
