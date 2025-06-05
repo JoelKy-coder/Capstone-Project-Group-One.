@@ -13,17 +13,51 @@ Understand why rural youth (aged 18–35) in Kenya remain largely excluded from 
 **Provider**:
 - KNBS, CBK & FSD Kenya.
   
-**Feature Include**:
-- Demographics (age, gender, education).
-- Access indicators: use of bank, mobile money, SACCOs.
-- Barriers: access to loans, lack of phone, lack of ID.
-- Technology: phone ownership, mobile app use.
+**Key Features**
+- The dataset includes 35 columns, covering:
+- Demographics: Age, gender, marital status, education level, household size.
+- Employment: Self-employment status, casual/seasonal work.
+- Financial Access: Bank/microfinance account usage, mobile money services (MPesa, Airtel Money), SACCO membership.
+- Barriers: Economic constraints, lack of ID, geographic access issues, trust in financial institutions.
+- Behavioral Insights: Internet access, financial advice sources, savings habits, loan repayment behavior.
 
-## DATA PREPARATION
--	Filter for youth aged 18–35
--	Tag respondents as rural or urban (inferred from county)
-- Create binary inclusion status: Included vs Excluded
-- Encode categorical variables and handle missing values
--	Generate new features e.g ID ownership, phone ownership, education level
+**Data Preprocessing**
+Steps Performed:
+- Data Loading: The dataset was loaded into a pandas DataFrame for analysis.
+- Initial Exploration:
+ Checked for duplicates (4 duplicates found and removed).
+ Summarized statistical properties of numerical features.
+- Identified unique values and missing data in each column.
+- Handling Missing Values:
+  Columns with high missing values (e.g., Economic Barriers, GeographicAccessBarriers) were noted for potential exclusion or imputation.
+- Other missing values were retained for further analysis.
+- Feature Renaming: Columns were renamed for clarity and consistency (e.g., A18. AGE OF RESPONDENT → RespondentAge).
+
+**Key Findings (Preliminary)**
+- Demographics: The average age of respondents is 25.6 years, with a household size of 4.4.
+- Employment: 18% are self-employed, while 33% work as casual/seasonal workers.
+- Financial Access:
+  99.6% use MPesa, while only 8.5% use Airtel Money.
+ 80.8% possess a national ID, but 19.3% cite lack of ID as a barrier to opening a bank account.
+- Internet Access: 59% of respondents have internet access, indicating potential for digital financial services.
+
+**Next Steps**
+- Exploratory Data Analysis (EDA):
+Visualize distributions of key variables (e.g., age, education, financial access).
+Investigate correlations between financial exclusion and other factors.
+- Feature Engineering:
+Create derived features (e.g., binary flags for financial inclusion).
+Handle categorical variables through encoding.
+- Model Building:
+Train classification models (e.g., logistic regression, random forest) to predict financial exclusion.
+Evaluate model performance using accuracy, F1-score, and feature importance.
+- Policy Recommendations:
+Summarize findings to inform interventions by FSD Kenya and CBK.
+- Tools Used
+Python Libraries: Pandas, NumPy, Matplotlib, Seaborn.
+Environment: Jupyter Notebook (Google Colab).
+
+
+
 
 
