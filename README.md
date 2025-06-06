@@ -39,7 +39,10 @@ Steps Performed:
 - Financial Access:
   99.6% use MPesa, while only 8.5% use Airtel Money.
  80.8% possess a national ID, but 19.3% cite lack of ID as a barrier to opening a bank account.
-- Internet Access: 59% of respondents have internet access, indicating potential for digital financial services.
+- Internet Access: 59% of r
+![image](https://github.com/user-attachments/assets/64a99cd5-5c56-4686-9f09-256602b6f769) ![image](https://github.com/user-attachments/assets/65994db8-35af-4279-b710-a6103c4409c8)
+
+espondents have internet access, indicating potential for digital financial services.
 
 **Next Steps**
 1. Exploratory Data Analysis (EDA):
