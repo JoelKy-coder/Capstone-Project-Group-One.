@@ -57,7 +57,7 @@ Evaluate model performance using accuracy, F1-score, and feature importance.
 ![image](https://github.com/user-attachments/assets/00d162e7-6fe2-4813-bc2a-469602d58f51)
 ![image](https://github.com/user-attachments/assets/9fd1c0ae-c6ed-482f-a594-d0cab265c5da)
 
-5. Policy Recommendations:
+**5. Policy Recommendations:**
 This analysis confirms that while Kenya has made great strides in financial inclusion, significant barriers remain for rural youth. High mobile penetration, driven by M-Pesa, serves as a crucial foundation, yet it doesn't automatically translate to deeper engagement with formal financial services like banking or SACCOs.
 
 ***Key Takeaways:***
@@ -65,9 +65,9 @@ This analysis confirms that while Kenya has made great strides in financial incl
 - Economic Factors Dominate: Age, monthly expenditure, and household size are the strongest predictors of financial behavior, highlighting the importance of income and life stage.
 - A Digital and Economic Divide Persists: Rural youth have less internet access and lower average expenditures, creating a dual barrier to digital financial services.
 ***Policy Implications:***
-Bridge the Gap: Develop policies and products that bridge the gap from mobile money to formal banking, such as simplified bank account opening processes via mobile.
-Targeted Interventions: Create tailored financial literacy programs and products for different youth segments based on income level, location (rural/urban), and employment status.
-Leverage High Mobile Penetration: Continue to use mobile platforms for delivering financial education, job-matching services, and accessible credit products like the Hustler Fund.
+- Bridge the Gap: Develop policies and products that bridge the gap from mobile money to formal banking, such as simplified bank account opening processes via mobile.
+- Targeted Interventions: Create tailored financial literacy programs and products for different youth segments based on income level, location (rural/urban), and employment status.
+- Leverage High Mobile Penetration: Continue to use mobile platforms for delivering financial education, job-matching services, and accessible credit products like the Hustler Fund.
 ***Tools Used***
 Python Libraries: Pandas, NumPy, Matplotlib, Seaborn.
 Environment: Jupyter Notebook (Google Colab).
