@@ -64,6 +64,7 @@ This analysis confirms that while Kenya has made great strides in financial incl
 - Mobile is Key, but Not Enough: Nearly all youth are on mobile money, but a large portion remain unbanked, especially in rural areas.
 - Economic Factors Dominate: Age, monthly expenditure, and household size are the strongest predictors of financial behavior, highlighting the importance of income and life stage.
 - A Digital and Economic Divide Persists: Rural youth have less internet access and lower average expenditures, creating a dual barrier to digital financial services.
+  
 ***Policy Implications:***
 - Bridge the Gap: Develop policies and products that bridge the gap from mobile money to formal banking, such as simplified bank account opening processes via mobile.
 - Targeted Interventions: Create tailored financial literacy programs and products for different youth segments based on income level, location (rural/urban), and employment status.
