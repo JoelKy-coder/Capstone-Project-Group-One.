@@ -69,6 +69,7 @@ This analysis confirms that while Kenya has made great strides in financial incl
 - Bridge the Gap: Develop policies and products that bridge the gap from mobile money to formal banking, such as simplified bank account opening processes via mobile.
 - Targeted Interventions: Create tailored financial literacy programs and products for different youth segments based on income level, location (rural/urban), and employment status.
 - Leverage High Mobile Penetration: Continue to use mobile platforms for delivering financial education, job-matching services, and accessible credit products like the Hustler Fund.
+- 
 ***Tools Used***
 Python Libraries: Pandas, NumPy, Matplotlib, Seaborn.
 Environment: Jupyter Notebook (Google Colab).
